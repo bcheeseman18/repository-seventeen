@@ -2,3 +2,23 @@
 
 @include foundation-global-styles;
 @include foundation-grid; 
+
+button {
+    border: 1px solid black; 
+}
+
+.addBtn {
+    display: block; 
+}
+
+input { 
+    border: 1px solid black; 
+}
+
+.show {
+    display: block; 
+}
+
+section {
+    display: none; 
+}
